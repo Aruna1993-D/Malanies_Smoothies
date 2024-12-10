@@ -1,3 +1,3 @@
 #requirements.txt
-snowflake-snowpark-pythonname: app_environment
+snowflake-snowpark-python
 streamlit
